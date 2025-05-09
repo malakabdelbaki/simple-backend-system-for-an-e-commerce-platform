@@ -21,6 +21,7 @@ The system is designed using:
 You can deploy this project using **either of the two methods** below:
 
 Option 1: Deploy Using CloudFormation using the template.yaml
+
 Option 2: manual set up
 
 ### Manual set up Steps
